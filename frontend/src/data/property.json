@@ -1,0 +1,39 @@
+
+  [
+    {
+    "Id": 1,
+    "Name": "Gloval Court",
+    "Type":"House",
+    "Price": 12000
+    },
+    {
+      "Id": 2,
+      "Name": "Eros Villa",
+      "Type":"Office",
+      "Price": 19000
+    },
+    {
+      "Id": 3,
+      "Name": "Ashawo Joint",
+      "Type":"Hall",
+      "Price": 20000
+    },
+    {
+      "Id": 3,
+      "Name": "Food Court",
+      "Type":"Restaurant",
+      "Price": 20000
+    },
+    {
+      "Id": 3,
+      "Name": "Ashawo Joint",
+      "Type":"Hall",
+      "Price": 20000
+    },
+    {
+      "Id": 3,
+      "Name": "Food Court",
+      "Type":"Restaurant",
+      "Price": 20000
+    }
+  ]
