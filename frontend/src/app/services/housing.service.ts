@@ -12,6 +12,6 @@ export class HousingService {
   constructor(private http:HttpClient) { }
 
   getAllProperties() {
-    return this.http.get<Array<IProperty>>('data/property.json');
+    return this.http.get<Array<IProperty>>('data/property.json')
   }
 }

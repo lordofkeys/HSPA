@@ -2,38 +2,50 @@
   [
     {
     "Id": 1,
+    "SellRent": 2,
     "Name": "Gloval Court",
     "Type":"House",
-    "Price": 12000
+    "Price": 12000,
+    "Image": "prop-1"
     },
     {
       "Id": 2,
+      "SellRent": 2,
       "Name": "Eros Villa",
       "Type":"Office",
-      "Price": 19000
+      "Price": 19000,
+      "Image": "prop-2"
     },
     {
       "Id": 3,
+      "SellRent": 1,
       "Name": "Ashawo Joint",
       "Type":"Hall",
-      "Price": 20000
+      "Price": 20000,
+      "Image": "prop-3"
     },
     {
       "Id": 3,
+      "SellRent": 2,
       "Name": "Food Court",
       "Type":"Restaurant",
-      "Price": 20000
+      "Price": 20000,
+      "Image": "prop-4"
     },
     {
       "Id": 3,
+      "SellRent": 1,
       "Name": "Ashawo Joint",
       "Type":"Hall",
-      "Price": 20000
+      "Price": 20000,
+      "Image": ""
     },
     {
       "Id": 3,
+      "SellRent": 2,
       "Name": "Food Court",
       "Type":"Restaurant",
-      "Price": 20000
+      "Price": 20000,
+      "Image": ""
     }
   ]
